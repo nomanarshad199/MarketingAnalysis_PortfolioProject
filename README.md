@@ -1,11 +1,15 @@
 **ShopEasy Marketing Analytics Portfolio Project**
 
 A comprehensive data analysis project investigating declining customer engagement, conversion rates, and marketing return on investment (ROI) for ShopEasy, an online retail business.
+
 **Project Overview**
 
 ShopEasy has been experiencing a decline in customer engagement and conversion rates despite increasing marketing expenditures. This project provides a structured data-driven evaluation of campaign performance, customer feedback, and the conversion funnel to diagnose pain points and deliver actionable optimization strategies.Core Business ChallengesReduced Customer Engagement: Declining interactions (clicks, likes, comments) across digital marketing channels and the website.Decreased Conversion Rates: Fewer site visitors completing purchases, indicating friction in the user journey.High Marketing Expenses: Elevated campaign spending failing to yield expected returns on investment (ROI).Unexploited Feedback: Untapped customer reviews and social media comments holding insights into user sentiment and pain points.
+
 🎯** Key Performance Indicators (KPIs)**
 
 Conversion Rate (CR): Percentage of website visitors who complete a purchase.Customer Engagement Rate: Measurement of user interaction levels with marketing content.Average Order Value (AOV): Average monetary amount spent per transaction.Customer Feedback Score: Average aggregate rating derived from user product and service reviews.🔍 Project Goals & Analytical ObjectivesOptimize Conversion RatesIdentify bottlenecks and drop-off stages within the conversion funnel.Provide strategic recommendations to streamline user flow and boost checkout completions.Enhance Customer EngagementAnalyze interaction metrics across diverse marketing content types.Determine high-performing content formats to maximize audience reach and interaction.Elevate Customer Feedback ScoresPerform thematic and sentiment analysis on customer reviews and social media comments.Isolate recurring pain points and positive drivers to inform product and service improvements.
+
 **🛠️ Tech Stack & Methodology**
+
 Data Analysis & Processing: Python (pandas, numpy)   Visualization & Reporting: Power BI / Matplotlib / Seaborn   Analysis Techniques: Funnel Analysis, Sentiment Analysis, Exploratory Data Analysis (EDA)
